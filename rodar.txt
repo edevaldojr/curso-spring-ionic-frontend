@@ -1,1 +1,2 @@
 ionic serve
+ionic cordova run browser
